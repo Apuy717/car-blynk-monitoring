@@ -5,8 +5,8 @@
 #define BLYNK_PRINT Serial
 
 char auth[] = "Mr-XJ1dgfuKJLINypD0mZYUUMpJP4qrj";
-char ssid[] = "Net";
-char pass[] = "1sampai8";
+char ssid[] = "******";
+char pass[] = "******";
 
 double speed = 0;
 double jarakTempuh = 0;
